@@ -1,0 +1,12 @@
+c:\users\ifsp\documents\visual studio 2012\Projects\ConsoleSoma\ConsoleSoma\bin\Debug\ConsoleSoma.exe.config
+c:\users\ifsp\documents\visual studio 2012\Projects\ConsoleSoma\ConsoleSoma\obj\Debug\ConsoleSoma.csprojResolveAssemblyReference.cache
+c:\users\ifsp\documents\visual studio 2012\Projects\ConsoleSoma\ConsoleSoma\bin\Debug\ConsoleSoma.exe
+c:\users\ifsp\documents\visual studio 2012\Projects\ConsoleSoma\ConsoleSoma\bin\Debug\ConsoleSoma.pdb
+c:\users\ifsp\documents\visual studio 2012\Projects\ConsoleSoma\ConsoleSoma\obj\Debug\ConsoleSoma.exe
+c:\users\ifsp\documents\visual studio 2012\Projects\ConsoleSoma\ConsoleSoma\obj\Debug\ConsoleSoma.pdb
+D:\Zendriak\D-F\FACULDADE\2º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 1\Programas\ConsoleSoma\ConsoleSoma\bin\Debug\ConsoleSoma.exe.config
+D:\Zendriak\D-F\FACULDADE\2º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 1\Programas\ConsoleSoma\ConsoleSoma\obj\Debug\ConsoleSoma.exe
+D:\Zendriak\D-F\FACULDADE\2º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 1\Programas\ConsoleSoma\ConsoleSoma\obj\Debug\ConsoleSoma.pdb
+D:\Zendriak\D-F\FACULDADE\2º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 1\Programas\ConsoleSoma\ConsoleSoma\bin\Debug\ConsoleSoma.exe
+D:\Zendriak\D-F\FACULDADE\2º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 1\Programas\ConsoleSoma\ConsoleSoma\bin\Debug\ConsoleSoma.pdb
+D:\Zendriak\D-F\FACULDADE\2º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 1\Programas\ConsoleSoma\ConsoleSoma\obj\Debug\ConsoleSoma.csprojResolveAssemblyReference.cache

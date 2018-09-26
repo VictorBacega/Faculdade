@@ -1,0 +1,9 @@
+C:\Users\ifsp\Documents\Visual Studio 2012\Projects\frmChecar\frmChecar\bin\Debug\frmChecar.exe.config
+C:\Users\ifsp\Documents\Visual Studio 2012\Projects\frmChecar\frmChecar\bin\Debug\frmChecar.exe
+C:\Users\ifsp\Documents\Visual Studio 2012\Projects\frmChecar\frmChecar\bin\Debug\frmChecar.pdb
+C:\Users\ifsp\Documents\Visual Studio 2012\Projects\frmChecar\frmChecar\obj\Debug\frmChecar.csprojResolveAssemblyReference.cache
+C:\Users\ifsp\Documents\Visual Studio 2012\Projects\frmChecar\frmChecar\obj\Debug\frmChecar.Form1.resources
+C:\Users\ifsp\Documents\Visual Studio 2012\Projects\frmChecar\frmChecar\obj\Debug\frmChecar.Properties.Resources.resources
+C:\Users\ifsp\Documents\Visual Studio 2012\Projects\frmChecar\frmChecar\obj\Debug\frmChecar.csproj.GenerateResource.Cache
+C:\Users\ifsp\Documents\Visual Studio 2012\Projects\frmChecar\frmChecar\obj\Debug\frmChecar.exe
+C:\Users\ifsp\Documents\Visual Studio 2012\Projects\frmChecar\frmChecar\obj\Debug\frmChecar.pdb

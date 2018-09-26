@@ -1,0 +1,9 @@
+c:\users\ifsp\documents\visual studio 2012\Projects\NumeroDaSorte\NumeroDaSorte\bin\Debug\NumeroDaSorte.exe.config
+c:\users\ifsp\documents\visual studio 2012\Projects\NumeroDaSorte\NumeroDaSorte\bin\Debug\NumeroDaSorte.exe
+c:\users\ifsp\documents\visual studio 2012\Projects\NumeroDaSorte\NumeroDaSorte\bin\Debug\NumeroDaSorte.pdb
+c:\users\ifsp\documents\visual studio 2012\Projects\NumeroDaSorte\NumeroDaSorte\obj\Debug\NumeroDaSorte.csprojResolveAssemblyReference.cache
+c:\users\ifsp\documents\visual studio 2012\Projects\NumeroDaSorte\NumeroDaSorte\obj\Debug\NumeroDaSorte.Form1.resources
+c:\users\ifsp\documents\visual studio 2012\Projects\NumeroDaSorte\NumeroDaSorte\obj\Debug\NumeroDaSorte.Properties.Resources.resources
+c:\users\ifsp\documents\visual studio 2012\Projects\NumeroDaSorte\NumeroDaSorte\obj\Debug\NumeroDaSorte.csproj.GenerateResource.Cache
+c:\users\ifsp\documents\visual studio 2012\Projects\NumeroDaSorte\NumeroDaSorte\obj\Debug\NumeroDaSorte.exe
+c:\users\ifsp\documents\visual studio 2012\Projects\NumeroDaSorte\NumeroDaSorte\obj\Debug\NumeroDaSorte.pdb

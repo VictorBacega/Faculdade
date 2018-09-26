@@ -1,0 +1,6 @@
+c:\users\ifsp\documents\visual studio 2012\Projects\TesteConsole\TesteConsole\bin\Debug\TesteConsole.exe.config
+c:\users\ifsp\documents\visual studio 2012\Projects\TesteConsole\TesteConsole\bin\Debug\TesteConsole.exe
+c:\users\ifsp\documents\visual studio 2012\Projects\TesteConsole\TesteConsole\bin\Debug\TesteConsole.pdb
+c:\users\ifsp\documents\visual studio 2012\Projects\TesteConsole\TesteConsole\obj\Debug\TesteConsole.csprojResolveAssemblyReference.cache
+c:\users\ifsp\documents\visual studio 2012\Projects\TesteConsole\TesteConsole\obj\Debug\TesteConsole.exe
+c:\users\ifsp\documents\visual studio 2012\Projects\TesteConsole\TesteConsole\obj\Debug\TesteConsole.pdb

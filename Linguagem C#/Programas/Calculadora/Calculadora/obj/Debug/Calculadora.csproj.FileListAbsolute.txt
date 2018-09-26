@@ -1,0 +1,12 @@
+c:\users\zendr\documents\visual studio 2012\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+c:\users\zendr\documents\visual studio 2012\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+c:\users\zendr\documents\visual studio 2012\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+c:\users\zendr\documents\visual studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+c:\users\zendr\documents\visual studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.frmCalculadora.resources
+c:\users\zendr\documents\visual studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+c:\users\zendr\documents\visual studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+c:\users\zendr\documents\visual studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+c:\users\zendr\documents\visual studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+D:\Zendriak\D-F\FACULDADE\2º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 1\Programas\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+D:\Zendriak\D-F\FACULDADE\2º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 1\Programas\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\Zendriak\D-F\FACULDADE\2º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO 1\Programas\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

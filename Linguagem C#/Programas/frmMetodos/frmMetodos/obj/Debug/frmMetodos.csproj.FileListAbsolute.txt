@@ -1,0 +1,10 @@
+c:\users\ifsp\documents\visual studio 2012\Projects\frmMetodos\frmMetodos\bin\Debug\frmMetodos.exe.config
+c:\users\ifsp\documents\visual studio 2012\Projects\frmMetodos\frmMetodos\bin\Debug\frmMetodos.exe
+c:\users\ifsp\documents\visual studio 2012\Projects\frmMetodos\frmMetodos\bin\Debug\frmMetodos.pdb
+c:\users\ifsp\documents\visual studio 2012\Projects\frmMetodos\frmMetodos\obj\Debug\frmMetodos.csprojResolveAssemblyReference.cache
+c:\users\ifsp\documents\visual studio 2012\Projects\frmMetodos\frmMetodos\obj\Debug\frmMetodos.Form1.resources
+c:\users\ifsp\documents\visual studio 2012\Projects\frmMetodos\frmMetodos\obj\Debug\frmMetodos.Properties.Resources.resources
+c:\users\ifsp\documents\visual studio 2012\Projects\frmMetodos\frmMetodos\obj\Debug\frmMetodos.csproj.GenerateResource.Cache
+c:\users\ifsp\documents\visual studio 2012\Projects\frmMetodos\frmMetodos\obj\Debug\frmMetodos.exe
+c:\users\ifsp\documents\visual studio 2012\Projects\frmMetodos\frmMetodos\obj\Debug\frmMetodos.pdb
+c:\users\ifsp\documents\visual studio 2012\Projects\frmMetodos\frmMetodos\obj\Debug\frmMetodos.frmMetodoRetorno.resources

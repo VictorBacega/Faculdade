@@ -1,0 +1,9 @@
+C:\Users\ifsp\Documents\Visual Studio 2012\Projects\frmTemperatura\frmTemperatura\bin\Debug\frmTemperatura.exe.config
+C:\Users\ifsp\Documents\Visual Studio 2012\Projects\frmTemperatura\frmTemperatura\bin\Debug\frmTemperatura.exe
+C:\Users\ifsp\Documents\Visual Studio 2012\Projects\frmTemperatura\frmTemperatura\bin\Debug\frmTemperatura.pdb
+C:\Users\ifsp\Documents\Visual Studio 2012\Projects\frmTemperatura\frmTemperatura\obj\Debug\frmTemperatura.csprojResolveAssemblyReference.cache
+C:\Users\ifsp\Documents\Visual Studio 2012\Projects\frmTemperatura\frmTemperatura\obj\Debug\frmTemperatura.Form1.resources
+C:\Users\ifsp\Documents\Visual Studio 2012\Projects\frmTemperatura\frmTemperatura\obj\Debug\frmTemperatura.Properties.Resources.resources
+C:\Users\ifsp\Documents\Visual Studio 2012\Projects\frmTemperatura\frmTemperatura\obj\Debug\frmTemperatura.csproj.GenerateResource.Cache
+C:\Users\ifsp\Documents\Visual Studio 2012\Projects\frmTemperatura\frmTemperatura\obj\Debug\frmTemperatura.exe
+C:\Users\ifsp\Documents\Visual Studio 2012\Projects\frmTemperatura\frmTemperatura\obj\Debug\frmTemperatura.pdb
